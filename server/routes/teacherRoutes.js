@@ -34,7 +34,7 @@ const upload = multer({
 
 // Teacher authentication
 teacherRouter.post('/login', teacherLogin);
-teacherRouter.post('/register', teacherRegister);
+// teacherRouter.post('/register', teacherRegister);
 
 // Teacher manages students
 teacherRouter.post('/create-students', createStudent);
