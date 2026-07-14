@@ -67,7 +67,7 @@ npm install
 cp .env.example .env
 ```
 
-**Edit `server/.env` with your configuration:**
+**Edit `server/.env` with your  configuration:**
 
 ```env
 NODE_ENV=development
