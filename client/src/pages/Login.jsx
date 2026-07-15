@@ -130,6 +130,17 @@ const Login = () => {
             </span>
           </div>
           <p className="text-gray-600 mt-2">Welcome back! Please sign in to continue your learning journey.</p>
+          <Alert variant="destructive" className="mb-4 bg-red-200">
+            <AlertDescription>
+              <b>
+                <h1>
+                  For Testing you can use Student
+                  <h1>Roll number : 1234567890</h1>
+                  <h1>Password : 1234567890</h1>
+                </h1>
+              </b>
+            </AlertDescription>
+          </Alert>
         </div>
 
         {/* Login Card */}
