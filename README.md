@@ -1,4 +1,4 @@
-# 🌱 EcoLearning - Environmental Education Platform
+# [🌱 EcoLearning - Environmental Education Platform](https://eco-learn-sih25.vercel.app/)
 
 A comprehensive environmental education platform featuring AI-powered grading, real-world assignments, interactive lessons, student progress tracking, and gamified learning experiences.
 
